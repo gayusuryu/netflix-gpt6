@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "netflixgpt-e78a2",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
